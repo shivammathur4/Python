@@ -1,0 +1,9 @@
+{
+    "WHEAT": [
+        {
+            "name": "1_Wheat",
+            "weight": 10.0,
+            "pricePerKg": 10.0
+        }
+    ]
+}

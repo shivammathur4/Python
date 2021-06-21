@@ -1,0 +1,8 @@
+2021-06-18 10:03:49,753 - CRITICAL - [Errno 2] No such file or directory: 'AdresBook.json'
+2021-06-18 10:04:34,913 - CRITICAL - [Errno 2] No such file or directory: 'AdresBook.json'
+2021-06-18 10:04:44,072 - CRITICAL - [Errno 2] No such file or directory: 'AdresBook.json'
+2021-06-18 10:06:43,589 - CRITICAL - [Errno 2] No such file or directory: 'AdresBook.json'
+2021-06-18 10:06:53,891 - CRITICAL - [Errno 2] No such file or directory: 'AdresBook.json'
+2021-06-18 10:57:15,387 - CRITICAL - Expecting value: line 1 column 1 (char 0)
+2021-06-19 09:47:06,962 - CRITICAL - Expecting value: line 1 column 1 (char 0)
+2021-06-19 09:53:13,638 - CRITICAL - Expecting value: line 1 column 1 (char 0)
