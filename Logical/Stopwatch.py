@@ -1,3 +1,10 @@
+'''
+@Author:Shivam Mathur
+@Date:2021-06-30
+@Last Modified by:Shivam Mathur
+@Title: StopWatch program
+'''
+
 import time
 timeList=[]
 def SecondToTimeFormat(second):
