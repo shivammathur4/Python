@@ -1,3 +1,0 @@
-2021-06-18 09:34:33,917 - CRITICAL - [Errno 2] No such file or directory: 'inventory.json'
-2021-06-18 09:36:40,291 - CRITICAL - [Errno 2] No such file or directory: 'inventory.json'
-2021-06-18 09:44:27,066 - CRITICAL - Expecting value: line 1 column 1 (char 0)
