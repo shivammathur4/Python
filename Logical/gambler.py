@@ -4,6 +4,10 @@
 @Last Modified by:Shivam Mathur
 @Title:Clinic Management Application
 '''
+'''
+Simulates a gambler who start with $stake and place fair $1 bets until
+he/she goes broke (i.e. has no money) 
+'''
 
 import random
 stakeAmount = int(input('Enter the stake amount '))
