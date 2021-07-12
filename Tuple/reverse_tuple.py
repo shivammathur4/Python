@@ -17,4 +17,4 @@ def reverse_tuple(tuples):
 
 
 
-print(reverse_tuple())
+print(reverse_tuple(tuples))
